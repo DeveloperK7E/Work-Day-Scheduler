@@ -6,6 +6,6 @@ This is a functional workday scheduler that utilizes local storage, JavaScript f
 
 # Screenshot
 
-![Screenshot](/assets/Workday-ss.png/ "Screenshot")
+![Screenshot](/assets/WDS.png/ "Screenshot")
 
 # Link to deployed app
