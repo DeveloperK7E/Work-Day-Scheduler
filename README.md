@@ -9,3 +9,4 @@ This is a functional workday scheduler that utilizes local storage, JavaScript f
 ![Screenshot](/assets/WDS.png/ "Screenshot")
 
 # Link to deployed app
+https://developerk7e.github.io/Work-Day-Scheduler/
